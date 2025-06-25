@@ -87,13 +87,13 @@ const touhid = {
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 </div>
 
-const currentGoals = {
+```const currentGoals = {
   🔥 building: "Modern MERN Stack Applications",
   📚 learning: "Advanced React & Next.js Concepts",
   🎯 mastering: "Frontend Development Best Practices",
   🚀 exploring: "Latest Web Technologies",
   💡 focus: "Creating User-Friendly Interfaces"
-};
+};```
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"> Connect With Me
 
