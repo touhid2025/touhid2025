@@ -94,6 +94,16 @@ const currentGoals = {
 };
 ```
 
+```
+const currentGoals = {
+  building: "Modern MERN Stack Applications",
+  learning: "Advanced React & Next.js Concepts",
+  mastering: "Frontend Development Best Practices",
+  exploring: "Latest Web Technologies",
+  focus: "Creating User-Friendly Interfaces"
+};
+```
+
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"> Connect With Me
 
 <div align="center">
