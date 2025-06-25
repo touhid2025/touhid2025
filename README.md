@@ -1,26 +1,10 @@
-### Hi there 👋, I am Touhid
-#### Bringing interfaces to life with clean code, creativity, and consistency.
-
 ![I am GitHub Readme Generator's creator](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg)
-
-![Bringing interfaces to life with clean code, creativity, and consistency.](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg5_11-16-56.jpg)
-
-![Bringing interfaces to life with clean code, creativity, and consistency.](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg5_11-16-56.jpg)
-Hi, I'm Touhid Bin Amin. I'm a Frontend Web Developer with a passion for creating clean, responsive, and user-friendly websites. I mainly work with HTML, CSS, JavaScript, React, and Tailwind CSS.
-
 
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-<!--
-How to make this gif ?
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
 
 Right now, I'm learning backend development with Node.js, Express, and MongoDB to become a full-stack developer. I'm also learning about Firebase Authentication and JWT for secure login systems.
 
