@@ -17,6 +17,7 @@ Skills: / REACT / JS / HTML / CSS/FIREBASE/NODE.JS/EXPRESS.JS/MONGODB
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
+```javascript
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -29,6 +30,7 @@ const thai = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
 
 
 ## 🌐 Socials:
