@@ -9,33 +9,20 @@
  </abc>
 </h2> 
 
-
-
-Right now, I'm learning backend development with Node.js, Express, and MongoDB to become a full-stack developer. I'm also learning about Firebase Authentication and JWT for secure login systems.
-
-I enjoy learning new things, solving problems, and building useful web applications. My goal is to improve every day and build projects that help people in real life..
-
-Skills: / REACT / JS / HTML / CSS/FIREBASE/NODE.JS/EXPRESS.JS/MONGODB
-
-- 🔭 I’m currently working on on my protfolio 
-- 🌱 I’m currently learning Node.js,Express.js,Mongodb
-
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, firebase, express.js, mongodb ],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and javacript"
 }
 ```
 
