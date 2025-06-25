@@ -60,6 +60,72 @@ const touhid = {
 </div>
 
 
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hridaysonar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaysonar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaysonar&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridaysonar&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&hide_border=true" width="100%"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hridaysonar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35"> Current Focus
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+</div>
+
+const currentGoals = {
+  🔥 building: "Modern MERN Stack Applications",
+  📚 learning: "Advanced React & Next.js Concepts",
+  🎯 mastering: "Frontend Development Best Practices",
+  🚀 exploring: "Latest Web Technologies",
+  💡 focus: "Creating User-Friendly Interfaces"
+};
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"> Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridoy-sonar-94b42a331)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/profile.php?id=61557692312244)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhridaysonar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://phenomenal-cuchufli-fef911.netlify.app/)
+
+</div>
+
+<div align="center">
+  
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35"> Thanks for Visiting!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+
+*Let's build something amazing together! 🚀*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" />
+</div>
+
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:touhidbinamin@gmail.com) 
 
