@@ -12,19 +12,23 @@
 # 💫 About Me:
 
 ```javascript
-const thai = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, firebase, express.js, mongodb ],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and javacript"
-}
+const touhid = {
+    name: "Touhid Bin Amin",
+    role: "Frontend Developer",
+    location: "Bangladesh 🇧🇩",
+    currentlyWorking: "MERN Stack Projects",
+    currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
+    askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
+    email: "touhidbinamin@gmail.com",
+    portfolio: "loading...",
+    funFact: "I love building interactive web applications! 🚀"
+};
 ```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hridaysonar&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hridaysonar?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Focus" />
+</div>
 
 
 ## 🌐 Socials:
