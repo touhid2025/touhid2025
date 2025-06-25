@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Touhid
 #### Bringing interfaces to life with clean code, creativity, and consistency.
 
-(https://github.com/touhid2025/touhid2025/blob/main/photo_2025-06-25_11-16-56.jpg)
-
+![Bringing interfaces to life with clean code, creativity, and consistency.](https://github.com/touhid2025/touhid2025/blob/main/photo_2025-06-25_11-16-56.jpg)
 Hi, I'm Touhid Bin Amin. I'm a Frontend Web Developer with a passion for creating clean, responsive, and user-friendly websites. I mainly work with HTML, CSS, JavaScript, React, and Tailwind CSS.
 
 Right now, I'm learning backend development with Node.js, Express, and MongoDB to become a full-stack developer. I'm also learning about Firebase Authentication and JWT for secure login systems.
