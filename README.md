@@ -83,26 +83,7 @@ const touhid = {
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 </div>
 
-```
-javascript
-const currentGoals = {
-  🔥 building: "Modern MERN Stack Applications",
-  📚 learning: "Advanced React & Next.js Concepts",
-  🎯 mastering: "Frontend Development Best Practices",
-  🚀 exploring: "Latest Web Technologies",
-  💡 focus: "Creating User-Friendly Interfaces"
-};
-```
 
-```
-const currentGoals = {
-  building: "Modern MERN Stack Applications",
-  learning: "Advanced React & Next.js Concepts",
-  mastering: "Frontend Development Best Practices",
-  exploring: "Latest Web Technologies",
-  focus: "Creating User-Friendly Interfaces"
-};
-```
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="35"> Connect With Me
 
@@ -110,7 +91,7 @@ const currentGoals = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:touhidbinamin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](touhidbinamin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]()
 
 </div>
