@@ -25,8 +25,8 @@ const touhid = {
 };
 ```
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridaysonar&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hridaysonar?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=touhid2025&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/touhid2025?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Focus" />
 </div>
 
