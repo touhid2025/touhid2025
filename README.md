@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Touhid
 #### Bringing interfaces to life with clean code, creativity, and consistency.
 
+![I am GitHub Readme Generator's creator](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg)
+
 ![Bringing interfaces to life with clean code, creativity, and consistency.](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg5_11-16-56.jpg)
 
 ![Bringing interfaces to life with clean code, creativity, and consistency.](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg5_11-16-56.jpg)
