@@ -1,9 +1,9 @@
 ![I am GitHub Readme Generator's creator](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg)
 
-<h2 align="left">
+<h2 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
+  <br> I'm Touhid, Fronend Developer | MERN stack Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
