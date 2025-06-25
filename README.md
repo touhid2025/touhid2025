@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/touhid2025/touhid2025/blob/main/banner2.jpg)
 
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Touhid 👋 I'm a 🚀 Frontend developer 🚀 MERN stack developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 
