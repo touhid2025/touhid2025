@@ -3,7 +3,7 @@
 <h2 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Touhid, Fronend Developer🚀| MERN stack Developer🚀 :computer:<br>
+  <br> I'm Touhid, Fronend Developer🚀 :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -20,7 +20,7 @@ const touhid = {
     currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
     askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
     email: "touhidbinamin@gmail.com",
-    portfolio: "loading...",
+    portfolio: "[Touhid Bin Amin](https://touhid-bin-amin.netlify.app/)",
     funFact: "I love building interactive web applications! 🚀"
 };
 ```
@@ -89,8 +89,7 @@ const touhid = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/touhid-bin-amin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:touhidbinamin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://touhid-bin-amin.netlify.app/)
 
