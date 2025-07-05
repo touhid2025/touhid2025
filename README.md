@@ -15,12 +15,9 @@
 const touhid = {
     name: "Touhid Bin Amin",
     role: "Frontend Developer",
-    location: "Bangladesh 🇧🇩",
-    currentlyWorking: "MERN Stack Projects",
+    location: "Dhaka, Bangladesh",
     currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
     email: "touhidbinamin@gmail.com",
-    portfolio: "[Touhid Bin Amin](https://touhid-bin-amin.netlify.app/)",
     funFact: "I love building interactive web applications! 🚀"
 };
 ```
